@@ -1,1 +1,166 @@
-"booklist":[{"className":"Class XII NCERT Text Books","subjects":[{"subjectName":"Accountsss","subjectUrl":"#/subjects/accounts"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"}]},{"className":"Class XI NCERT Text Books","subjects":[{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"}]},{"className":"Class XI NCERT Text Books","subjects":[{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"}]},{"className":"Class XI NCERT Text Books","subjects":[{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#"},{"subjectName":"Accounts","subjectUrl":"#/subjects/accounts"}]}]
+[
+  {
+    "className": "Class XII NCERT Text Books",
+    "subjects": [
+      {
+        "subjectName": "Accountsss",
+        "subjectUrl": "#/subjects/accounts"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      }
+    ]
+  },
+  {
+    "className": "Class XI NCERT Text Books",
+    "subjects": [
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      }
+    ]
+  },
+  {
+    "className": "Class XI NCERT Text Books",
+    "subjects": [
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      }
+    ]
+  },
+  {
+    "className": "Class XI NCERT Text Books",
+    "subjects": [
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#"
+      },
+      {
+        "subjectName": "Accounts",
+        "subjectUrl": "#/subjects/accounts"
+      }
+    ]
+  }
+]
